@@ -3,9 +3,10 @@ import { Globe2, Sparkles, Users2, Rocket } from "lucide-react";
 
 const pillars = [
   { icon: Rocket, title: "Hands-on training", text: "Project-based learning in Cloud, Tech Support, VA, Customer Service, Telemarketing & AI-powered workflows." },
-  { icon: Users2, title: "Mentorship", text: "Senior African mentors guide every learner from beginner to job-ready." },
+  { icon: Users2, title: "Mentorship", text: "Senior mentors from across the globe guide every learner from beginner to job-ready." },
   { icon: Globe2, title: "Global-ready", text: "Personal branding, remote-work skills and Upwork strategy to win clients worldwide." },
-  { icon: Sparkles, title: "A real community", text: "A growing ecosystem where ambitious Africans network, collaborate and grow together." },
+  { icon: Sparkles, title: "A real community", text: "A worldwide ecosystem where ambitious learners network, collaborate and grow together." },
+
 ];
 
 export function About() {
@@ -23,14 +24,15 @@ export function About() {
               <span className="dw-gradient-text font-bold">About Digital Witch</span>
             </div>
             <h2 className="font-display mt-5 text-3xl font-bold leading-[1.1] text-white sm:text-5xl">
-              Building Africa's next generation of{" "}
+              Building the next generation of{" "}
               <span className="dw-gradient-text">global tech professionals</span>.
             </h2>
             <p className="mt-6 text-base text-zinc-400 sm:text-lg">
-              Digital Witch is a modern EdTech platform and thriving professional
-              community helping everyday Africans transition into globally
-              competitive tech careers.
+              Digital Witch is a modern EdTech platform and thriving worldwide
+              community helping everyday people transition into globally
+              competitive tech careers — proudly born in Africa, built for the world.
             </p>
+
             <p className="mt-4 text-base text-zinc-400">
               We train you in high-demand digital skills — Cloud Computing, Tech
               Support, Virtual Assistance, Customer Service, Telemarketing

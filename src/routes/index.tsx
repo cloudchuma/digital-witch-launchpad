@@ -27,8 +27,9 @@ function Index() {
         <Community />
         <CTA />
         <footer className="mx-auto mt-24 max-w-7xl px-5 pb-10 text-center text-xs text-zinc-500 sm:px-8">
-          © {new Date().getFullYear()} Digital Witch · Made for African builders
+          © {new Date().getFullYear()} Digital Witch · Global tech careers, built for everyone
         </footer>
+
       </div>
     </div>
   );

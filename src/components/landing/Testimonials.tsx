@@ -298,7 +298,7 @@ export function Testimonials() {
           transition={{ duration: 0.8, delay: 0.1 }}
           className="font-display mt-4 text-3xl font-bold tracking-tight text-white sm:text-4xl md:text-5xl"
         >
-          Real Africans, <span className="dw-gradient-text">real transformations</span>
+          Real learners, <span className="dw-gradient-text">real transformations</span>
         </motion.h2>
 
         <motion.p
