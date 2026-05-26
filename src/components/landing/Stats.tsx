@@ -3,11 +3,12 @@ import { useEffect, useRef, useState } from "react";
 type Stat = { value: number; suffix?: string; label: string };
 
 const stats: Stat[] = [
-  { value: 2400, suffix: "+", label: "Africans trained" },
-  { value: 18, label: "Countries" },
+  { value: 2400, suffix: "+", label: "Learners trained globally" },
+  { value: 30, suffix: "+", label: "Countries reached" },
   { value: 85, suffix: "%", label: "Land first client" },
-  { value: 120, suffix: "+", label: "Active mentors" },
+  { value: 120, suffix: "+", label: "Active mentors worldwide" },
 ];
+
 
 function useCountUp(target: number, start: boolean, duration = 1600) {
   const [n, setN] = useState(0);

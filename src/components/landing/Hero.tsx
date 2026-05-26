@@ -60,10 +60,12 @@ export function Hero() {
               variants={item}
               className="mx-auto mt-5 max-w-lg text-base text-zinc-300 sm:text-lg lg:mx-0"
             >
-              Digital Witch trains Africans in Tech Support, Virtual Assistance,
-              Customer Service, Telemarketing, and Cloud Computing — then guides you
-              step-by-step to open an Upwork account and land your first paying client.
+              Digital Witch is a global tech academy training learners worldwide
+              in Tech Support, Virtual Assistance, Customer Service,
+              Telemarketing and Cloud Computing — then guiding you step-by-step
+              to open an Upwork account and land your first international client.
             </motion.p>
+
 
             <motion.div
               variants={item}
@@ -99,8 +101,9 @@ export function Hero() {
                 ))}
               </div>
               <p className="text-sm text-zinc-300">
-                <span className="font-semibold text-white">2,400+ Africans</span> already earning on Upwork & beyond
+                <span className="font-semibold text-white">2,400+ learners</span> earning on Upwork across 30+ countries
               </p>
+
             </motion.div>
           </motion.div>
         </motion.div>

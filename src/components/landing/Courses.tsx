@@ -156,9 +156,10 @@ export function Courses() {
           <span className="dw-gradient-text">land you remote jobs</span>
         </h2>
         <p className="mt-4 text-sm text-zinc-400 sm:text-base">
-          Pick a path, learn from senior African mentors, and graduate ready to earn on
-          Upwork and beyond.
+          Pick a path, learn from senior mentors around the world, and graduate
+          ready to earn on Upwork and beyond.
         </p>
+
       </div>
 
       <div className="mt-12 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">

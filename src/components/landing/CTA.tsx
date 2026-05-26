@@ -29,9 +29,11 @@ export function CTA() {
                 Your <span className="dw-gradient-text">global tech career</span> starts this week.
               </h2>
               <p className="mt-5 max-w-xl text-base text-zinc-300 sm:text-lg">
-                Join 2,400+ Africans learning Cloud, Tech Support, VA, Customer
-                Service and Telemarketing — and getting paid on Upwork.
+                Join 2,400+ learners across 30+ countries mastering Cloud, Tech
+                Support, VA, Customer Service and Telemarketing — and getting
+                paid on Upwork.
               </p>
+
               <div className="mt-7 flex flex-col items-start gap-3 sm:flex-row">
                 <a
                   href="#join"
